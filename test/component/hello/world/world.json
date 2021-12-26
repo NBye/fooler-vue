@@ -1,0 +1,18 @@
+{
+    "description": "环境同步服务",
+    "browser": {
+        "title": "环境同步服务",
+        "favicon": "/static/favicon.ico"
+    },
+    "sources": [
+        "/static/js/vue.min.js,/static/js/vue.formwork.v2.6.11.js",
+        "https://cdn.jsdelivr.net/npm/vant@2.4/lib/index.css",
+        "https://cdn.jsdelivr.net/npm/vant@2.4/lib/vant.min.js",
+        "/static/css/style.css"
+    ],
+    "depends": [],
+    "extends": [],
+    "developers": [
+        "zhanghejia"
+    ]
+}

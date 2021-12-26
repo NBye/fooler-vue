@@ -1,0 +1,23 @@
+{
+  "name": "fooler-vue",
+  "version": "1.0.0",
+  "description": "vue for web app",
+  "main": "src/fooler-vue.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fooler-vue"
+  },
+  "keywords": [
+    "vue",
+    "fooler",
+    "web"
+  ],
+  "author": "NBye",
+  "license": "ISC",
+  "dependencies": {
+    "fooler-core": "^1.1.8"
+  }
+}
